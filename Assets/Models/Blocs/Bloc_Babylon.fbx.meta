@@ -5,6 +5,7 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
+    2100000: Vitre_Emm02
     2300000: //RootNode
     3300000: //RootNode
     4300000: Bloc_Babylon
@@ -29,12 +30,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Facade_02
-    second: {fileID: 2100000, guid: 15f4adb59d120524b99d9c1722ec4a7d, type: 2}
+    second: {fileID: 2100000, guid: b0f1c8fb7c4f27d4db4f1dbc7f5ad8b5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Facade_03
-    second: {fileID: 2100000, guid: f33226c75d5897549bb399438471bb8d, type: 2}
+    second: {fileID: 2100000, guid: 8eb13abf015c8b24e96a0d76830f1a7d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

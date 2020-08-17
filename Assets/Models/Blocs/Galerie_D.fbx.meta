@@ -5,9 +5,12 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
+    2100000: Pierre_01.003
+    2100002: PVC_01.003
     2300000: //RootNode
     3300000: //RootNode
     4300000: Galerie_D
+    4300002: Galerie_D.001
     9500000: //RootNode
   externalObjects:
   - first:
@@ -23,7 +26,17 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: PVC_01.003
+    second: {fileID: 2100000, guid: 5804a5b8134122e4a833d6e90c24f7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Pierre_01
+    second: {fileID: 2100000, guid: 75ee7463208ea6f4d995c9646884a105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pierre_01.003
     second: {fileID: 2100000, guid: 75ee7463208ea6f4d995c9646884a105, type: 2}
   - first:
       type: UnityEngine:Material

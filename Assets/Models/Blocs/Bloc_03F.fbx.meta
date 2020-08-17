@@ -5,6 +5,9 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
+    2100000: Facade_01.001
+    2100002: Vitre_Emm02
+    2100004: PVC_01.003
     2300000: //RootNode
     3300000: //RootNode
     4300000: Bloc_03F
@@ -23,7 +26,17 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Facade_01.001
+    second: {fileID: 2100000, guid: c0fc9d70d506bb7489f988c930f68822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: PVC_01
+    second: {fileID: 2100000, guid: 5804a5b8134122e4a833d6e90c24f7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC_01.003
     second: {fileID: 2100000, guid: 5804a5b8134122e4a833d6e90c24f7d5, type: 2}
   - first:
       type: UnityEngine:Material
@@ -35,6 +48,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Vitre_Emissive_01
     second: {fileID: 2100000, guid: cb3c84dd0af28874aa598eaf0a72ede9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vitre_Emm02
+    second: {fileID: 2100000, guid: 59b02faeee71d7744a9a06f22d15389e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
