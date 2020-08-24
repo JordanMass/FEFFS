@@ -8,9 +8,17 @@ ModelImporter:
     2100000: PVC
     2100002: Emission_02
     2100004: Emission_01
+    2100006: Poulpe
+    2100008: Joinbots
+    2100010: Affiche10
+    2100012: FEFFS
+    2100014: Affiche06
+    2100016: RocketDP
+    2100018: ArtisFactum_01
     2300000: //RootNode
     3300000: //RootNode
     4300000: Horloge.007
+    4300002: Horloge.002
   externalObjects:
   - first:
       type: UnityEngine:Material

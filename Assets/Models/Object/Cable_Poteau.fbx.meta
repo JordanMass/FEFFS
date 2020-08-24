@@ -5,11 +5,18 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
+    2100000: PVC_01.003
+    2100002: Emission_02
     2300000: //RootNode
     3300000: //RootNode
     4300000: Cable_Poteau
     9500000: //RootNode
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_02
+    second: {fileID: 2100000, guid: a63a3f60bbdcce047919d33b86bd7f8e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -24,6 +31,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PVC_01
+    second: {fileID: 2100000, guid: 5804a5b8134122e4a833d6e90c24f7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC_01.003
     second: {fileID: 2100000, guid: 5804a5b8134122e4a833d6e90c24f7d5, type: 2}
   materials:
     importMaterials: 1

@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: bf814993799d6aa4fb5a65d4bbb5bcf2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube.004
+    100002: Cube.005
+    100004: Cube.007
+    100006: Cube.010
+    100008: Cube.012
+    100010: Cube.014
+    100012: Cube.015
+    100014: Cube.016
+    100016: Cube.021
+    100018: Cube.023
+    100020: Cube.024
+    100022: Cube.025
+    100024: Cube.026
+    100026: Cube.027
+    100028: Lampadaire_Lampe.001
+    100030: Lampadaire_Lampe.002
+    100032: Lampadaire_Lampe.003
+    100034: Lampadaire_Lampe.004
+    100036: //RootNode
+    100038: Roulotte_01
+    100040: Roulotte_01.001
+    100042: Roulotte_01.002
+    100044: Roulotte_02
+    100046: Roulotte_02.001
+    100048: Roulotte_02.002
+    400000: Cube.004
+    400002: Cube.005
+    400004: Cube.007
+    400006: Cube.010
+    400008: Cube.012
+    400010: Cube.014
+    400012: Cube.015
+    400014: Cube.016
+    400016: Cube.021
+    400018: Cube.023
+    400020: Cube.024
+    400022: Cube.025
+    400024: Cube.026
+    400026: Cube.027
+    400028: Lampadaire_Lampe.001
+    400030: Lampadaire_Lampe.002
+    400032: Lampadaire_Lampe.003
+    400034: Lampadaire_Lampe.004
+    400036: //RootNode
+    400038: Roulotte_01
+    400040: Roulotte_01.001
+    400042: Roulotte_01.002
+    400044: Roulotte_02
+    400046: Roulotte_02.001
+    400048: Roulotte_02.002
+    2100000: No Name
+    2100002: Bois_01
+    2100004: PVC
+    2100006: Blanc_01
+    2100008: Vert
+    2100010: Rouge
+    2100012: Jaune
+    2100014: PVC_01
+    2100016: Orange
+    2100018: Bleu
+    2100020: Emission
+    2100022: Metal_01
+    2100024: Emission_01
+    2300000: Cube.004
+    2300002: Cube.005
+    2300004: Cube.007
+    2300006: Cube.010
+    2300008: Cube.012
+    2300010: Cube.014
+    2300012: Cube.015
+    2300014: Cube.016
+    2300016: Cube.021
+    2300018: Cube.023
+    2300020: Cube.024
+    2300022: Cube.025
+    2300024: Cube.026
+    2300026: Cube.027
+    2300028: Lampadaire_Lampe.001
+    2300030: Lampadaire_Lampe.002
+    2300032: Lampadaire_Lampe.003
+    2300034: Lampadaire_Lampe.004
+    2300036: Roulotte_01
+    2300038: Roulotte_01.001
+    2300040: Roulotte_01.002
+    2300042: Roulotte_02
+    2300044: Roulotte_02.001
+    2300046: Roulotte_02.002
+    3300000: Cube.004
+    3300002: Cube.005
+    3300004: Cube.007
+    3300006: Cube.010
+    3300008: Cube.012
+    3300010: Cube.014
+    3300012: Cube.015
+    3300014: Cube.016
+    3300016: Cube.021
+    3300018: Cube.023
+    3300020: Cube.024
+    3300022: Cube.025
+    3300024: Cube.026
+    3300026: Cube.027
+    3300028: Lampadaire_Lampe.001
+    3300030: Lampadaire_Lampe.002
+    3300032: Lampadaire_Lampe.003
+    3300034: Lampadaire_Lampe.004
+    3300036: Roulotte_01
+    3300038: Roulotte_01.001
+    3300040: Roulotte_01.002
+    3300042: Roulotte_02
+    3300044: Roulotte_02.001
+    3300046: Roulotte_02.002
+    4300000: Cube.004
+    4300002: Roulotte_01
+    4300004: Roulotte_02
+    4300006: Cube.015
+    4300008: Lampadaire_Lampe.001
+    4300010: Lampadaire_Lampe.002
+    4300012: Lampadaire_Lampe.003
+    4300014: Lampadaire_Lampe.004
+    4300016: Cube.016
+    4300018: Cube.021
+    4300020: Cube.023
+    4300022: Cube.024
+    4300024: Cube.025
+    4300026: Cube.026
+    4300028: Cube.027
+    4300030: Roulotte_01.001
+    4300032: Roulotte_02.001
+    4300034: Roulotte_02.002
+    4300036: Roulotte_01.002
+    4300038: Cube.005
+    4300040: Cube.007
+    4300042: Cube.010
+    4300044: Cube.012
+    4300046: Cube.014
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanc_01
+    second: {fileID: 2100000, guid: c53abefeee824d347b7afcfd0db41e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bleu
+    second: {fileID: 2100000, guid: eb6821a22bdf61c4f9376c48cc4dc679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois_01
+    second: {fileID: 2100000, guid: f8627b0b5aaf9314cbbc7c3b7d83f596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission
+    second: {fileID: 2100000, guid: 0f3ffeb571632d844a5f07212f3cd7d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_01
+    second: {fileID: 2100000, guid: 1a0436e8376e5764bae84ee65e43233f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaune
+    second: {fileID: 2100000, guid: dc55e487b166f134099314f90c30ea46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_01
+    second: {fileID: 2100000, guid: 8eb13abf015c8b24e96a0d76830f1a7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 75ee7463208ea6f4d995c9646884a105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: e5448abce6d5153428a9dd4c9476836c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC
+    second: {fileID: 2100000, guid: 5804a5b8134122e4a833d6e90c24f7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC_01
+    second: {fileID: 2100000, guid: 5804a5b8134122e4a833d6e90c24f7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rouge
+    second: {fileID: 2100000, guid: 045373e03290efc4d829517083672bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vert
+    second: {fileID: 2100000, guid: 0603443ddd36e114aac4d117da87f4d7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
